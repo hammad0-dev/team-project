@@ -1,1 +1,1 @@
-print("Version from Branch A")
+print("Merged version from Branch A and Branch B")
